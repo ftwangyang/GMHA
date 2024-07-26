@@ -18,3 +18,9 @@ Run
 ```bash
 python train.py
 ```
+
+## Acknowledgments
+
+* https://github.com/RoyalSkye/Routing-MVMoE
+* https://github.com/FeiLiu36/MTNCO
+* https://github.com/yd-kwon/POMO
